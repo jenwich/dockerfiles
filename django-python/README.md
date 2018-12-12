@@ -3,5 +3,5 @@ Pre-install:
 - virtuelenv
 
 ```bash
-docker build --pull -t jenwich/django-python:3.6-alpine .
+docker build -t jenwich/django-python:3.6-alpine .
 ```

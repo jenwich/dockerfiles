@@ -1,5 +1,5 @@
 Pre-install kubectl in alpine image
 
 ```bash
-docker build --pull -t jenwich/kubectl:latest .
+docker build -t jenwich/kubectl:latest .
 ```
